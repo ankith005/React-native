@@ -1,6 +1,9 @@
 import React from "react";
-import { StatusBar } from "react-native";
-import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+import { StatusBar, BackHandler } from "react-native";
+import {
+  createBottomTabNavigator,
+  createStackNavigator,
+} from "@react-navigation/bottom-tabs";
 import Home from "../components/Home";
 import Create from "../components/Create";
 import Profile from "../components/Profile";
