@@ -1,10 +1,5 @@
-import { NavigationContainer } from "@react-navigation/native";
-import TabNavigator from "./app/navigation/TabNavigator.js";
+import OnBoarding from "./app/components/Onboarding/OnBoarding.js";
 
 export default function App() {
-  return (
-    <NavigationContainer>
-      <TabNavigator />
-    </NavigationContainer>
-  );
+  return <OnBoarding />;
 }

@@ -6,3 +6,5 @@
 - Added back to previous page on back press to webview
 - Modified bottom navigation bar
 - Added alert on exit
+- Removed all the above functionalities
+- Added onBoard screen with 3 slides
