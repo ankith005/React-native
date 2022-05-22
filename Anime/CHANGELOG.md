@@ -8,3 +8,5 @@
 - Added alert on exit
 - Removed all the above functionalities
 - Added onBoard screen with 3 slides
+- Added nextButton on onBoard to navigate and to got to Home Screen
+- On Boarding screen displays only for the first time opening the app
